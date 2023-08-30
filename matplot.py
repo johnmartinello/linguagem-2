@@ -1,9 +1,12 @@
-import matplotlib.pyplot as plt
-import numpy as np
+num_map = {}
+nums = [1, 1, 1, 2, 2, 3]
+k = 2
+for i in nums:
+    if i in num_map:
+        num_map[i] += 1
+    else:
+        num_map[i] = 1
 
-xpoints = np.array([0, 10])
-ypoints = np.array([0, 10])
+num_map = sorted(num_map, key=num_map.get, reverse=True)
 
-
-plt.plot(xpoints, ypoints)
-plt.show()
+print(num_map[:k])
