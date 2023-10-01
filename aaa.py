@@ -10,3 +10,4 @@ for linha in matriz_exemplo:
     for elemento in linha:
         print(elemento, end=' ')
     print()
+
