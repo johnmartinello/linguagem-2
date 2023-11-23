@@ -1,0 +1,1 @@
+ Isso acontece porque diferentes exceções podem ocorrer e é importante tratar cada tipo de exceção de maneira apropriada. Cada bloco catch é responsável por capturar e lidar com um tipo específico de exceção, o que ajuda a tornar o código mais robusto e controlado, permitindo que o programa reaja de maneira adequada a cenários diversos de erro.

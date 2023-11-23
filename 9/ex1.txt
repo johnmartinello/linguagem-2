@@ -1,0 +1,1 @@
+uma exceção é um evento anormal ou erro que ocorre durante a execução de um programa. A finalidade do tratamento de exceções é lidar de forma controlada com esses erros, permitindo que o programa reaja apropriadamente em vez de encerrar abruptamente.

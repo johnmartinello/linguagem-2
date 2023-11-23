@@ -1,0 +1,2 @@
+O bloco finally é uma parte do comando try-catch que é usado para definir um código que deve ser executado, independentemente de ocorrer uma exceção ou não. Ele é frequentemente usado para garantir que recursos sejam liberados ou tarefas de limpeza sejam realizadas, independentemente do resultado da operação no bloco try.o bloco finally pode ser usado para garantir que o arquivo seja fechado, mesmo se ocorrer uma exceção durante a leitura ou gravação.
+

@@ -1,0 +1,1 @@
+ bloco else no contexto de tratamento de exceções é usado para definir um conjunto de instruções que deve ser executado quando nenhum erro ou exceção ocorre dentro do bloco try.

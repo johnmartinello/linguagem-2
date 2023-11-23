@@ -2,6 +2,8 @@ class Poupanca:
     def __init__(self, saldo: float):
         self.saldo = saldo
 
+    def Poupanca(self):
+        pass
     def depositar(self, valor: float):
         self.saldo += valor
         print("deposito realizado com sucesso")
